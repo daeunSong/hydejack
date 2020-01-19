@@ -17,11 +17,10 @@
 
 /* Basic */
 
-
 	p {
 		margin: 0 0 2em 0;
 	}
-
+    
 	h1, h2, h3, h4, h5, h6 {
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -131,17 +130,17 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #F38089;
+			color: #F38089 !important;
 		}
 
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			background-color: rgba(243, 128, 137, 0.1);
+			border-color: #F38089;
+			color: #F38089 !important;
 		}
 
 		input[type="submit"].icon,
