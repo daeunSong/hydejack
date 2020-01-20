@@ -67,7 +67,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Last Update in 2020/01/17
+copyright:             Last Update in 2020/01/20
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
