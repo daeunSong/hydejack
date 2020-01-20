@@ -94,6 +94,17 @@
 	.align-right {
 		text-align: right;
 	}
+    
+    a {
+        color: #F38089;
+        text-decoration: none;
+    }
+
+        a:hover {
+            border-bottom-color: transparent;
+            color: #F38089 !important;
+            text-decoration: none;
+        }
 
 
 /* Button */
@@ -560,3 +571,4 @@
 		.icon > .label {
 			display: none;
 		}
+        
