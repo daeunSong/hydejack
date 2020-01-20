@@ -94,18 +94,17 @@
 	.align-right {
 		text-align: right;
 	}
-    
-    a {
+        
+    p a, h5 a, h6 a {
         color: #F38089;
         text-decoration: none;
     }
 
-        a:hover {
+        p a:hover, h5 a:hover, h6 a:hover {
             border-bottom-color: transparent;
             color: #F38089 !important;
             text-decoration: none;
         }
-
 
 /* Button */
 
