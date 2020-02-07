@@ -12,7 +12,7 @@
 
 // 1
 .content a:not(.btn):hover {
-  border-color: {{ color }};
+  border-color: {{ 'transparent' }};
 }
 
 // 2
